@@ -1,1 +1,8 @@
-test
+
+
+
+def joke():
+    print('ahahhaha')
+
+
+joke()

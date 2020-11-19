@@ -6,3 +6,5 @@ def joke():
 
 
 joke()
+d
+a
